@@ -5,6 +5,7 @@
     versionCode = "10" 
     version     = "1.0.0" >
 
+    <gap:plugin name="cordova-plugin-whitelist" source="npm" />
     <!-- versionCode is optional and Android only -->
 
     <name>PhoneGap Example</name>
