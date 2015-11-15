@@ -1,0 +1,182 @@
+{
+    "home": {
+        "WELCOME": "Benvenuto in {{appName}}"
+    },
+    "user":{
+        "AS":"Cliente",
+        "SESSION_IMPERSONATING":"Impersona",
+        "CLIENT":"Cliente",
+        "SESSION_NO_CLIENT":"Nessun cliente in sessione"
+        },
+    "topbar": {
+        "messages": {
+            "UNREAD": "Messaggi non letti",
+            "MORE": "Altri messaggi"
+        },
+        "search": {
+            "PLACEHOLDER": "Digita e premi invio..."
+        },
+        "notification": {
+            "MORE": "Altre notifiche"
+        }
+    },
+    "offsidebar": {
+        "setting": {
+            "SETTINGS": "Impostazioni",
+            "THEMES": "Temi",
+            "layout": {
+                "FIXED": "Fisso",
+                "COLLAPSED": "Collassato"
+            }
+        },
+        "chat": {
+            "CONNECTIONS": "Connessioni",
+            "SEARCH": "Cerca contatti",
+            "ONLINE": "ONLINE",
+            "OFFLINE": "OFFLINE",
+            "LOAD_MORE": "Carica altri",
+            "TASK_COMPLETION": "Completezza Task",
+            "QUOTA": "Quota di upload"
+        }
+    },
+    "sidebar": {
+        "WELCOME": "Benvenuto",
+        "heading": {
+            "HEADER": "Navigazione principale",
+            "AREA_CONTROLLO": "Area controllo",
+            "COMPONENTS": "Componenti",
+            "MORE": "Altro"
+        },
+        "nav": {
+            "home": {
+                "HOME": "Home",
+                "CLIENTE_RICERCA": "Ricerca clienti",
+                "CLIENTE_INSERISCI": "Inserimento clienti",
+                "FIDEURAM_NEXT_IMPORT": "Importa da Fideuram Next"
+
+            },
+
+
+
+            "nuclei": {
+                "NUCLEI": "Nuclei",
+                "ELENCO": "Elenco",
+                "INSERISCI": "Nuovo",
+                "IMPORT": "Importa da SIM PB"
+
+            },
+
+            "alert":{
+              "ALERTS":"Alerts",
+              "SEMPLICE":"Ricerca Semplice",
+              "AVANZATA":"Ricerca Avanzata",
+              "MANUALI":"Ricerca Alert Manuali",
+              "SINTESI":"Sintesi"
+            },
+
+            "REPORT":"Report",
+
+            "importa":{
+              "IMPORT":"Importa",
+              "SEMPLICE":"Dati catastali",
+              "AVANZATA":"Ricerca Avanzata"
+            },
+
+            "patrimonio":{
+              "PATRIMONIO":"Patrimonio"
+            },
+
+            "rischio":{
+              "RISCHIO":"Rischio",
+              "ADEGUATEZZA":"Adeguatezza",
+              "GRAFICI":"Grafici",
+              "RISK_ALLOCATION":"Risk Allocation",
+              "CORRELAZIONE":"Correlazione"
+            },
+
+            "proposta":{
+              "PROPOSTA":"Proposta",
+              "NUOVA":"Nuova",
+              "ELENCO":"Elenco"
+            },
+
+            "monitoraggio":{
+                "MONITORAGGIO":"Monitoraggio",
+                "ATTIVO":"Attivo",
+                "STORICO":"Storico"
+              },
+
+
+            "home": {
+                "HOME": "Area PB",
+                "CLIENTE_RICERCA": "Cerca",
+                "CLIENTE_INSERISCI": "Inserisci",
+                "PERSONALI": "Dati personali",
+                "FAMILIARI": "Familiari ed altre relazioni",
+                "PROFILO": "Profilo finanziario"
+            },
+            "WIDGETS": "Widgets",
+            "WIDGETS": "Widgets",
+            "DOCUMENTATION": "Documentazione",
+            "element": {
+                "ELEMENTS": "Elementi",
+                "BUTTON": "Bottoni",
+                "COLOR": "Colori",
+                "NOTIFICATION": "Notifiche",
+                "INTERACTION": "Interazione",
+                "SPINNER": "Spinner",
+                "ANIMATION": "Animazione",
+                "DROPDOWN": "Dropdown",
+                "PANEL": "Panello",
+                "PORTLET": "Portlet",
+                "GRID": "Griglia",
+                "GRID_MASONRY": "Griglia Masonry",
+                "TYPO": "Tipografia",
+                "FONT_ICON": "Font Icons",
+                "WEATHER_ICON": "Weather Icons"
+            },
+            "form": {
+                "FORM": "Forms",
+                "STANDARD": "Standard",
+                "EXTENDED": "Extesi",
+                "VALIDATION": "Validazione",
+                "WIZARD": "Wizard"
+            },
+            "chart": {
+                "CHART": "Grafici",
+                "FLOT": "Flot",
+                "RADIAL": "Radiali"
+            },
+            "table": {
+                "TABLE": "Tabelle",
+                "STANDARD": "Standard",
+                "EXTENDED": "Estese",
+                "DATATABLE": "Datatable"
+            },
+            "map": {
+                "MAP": "Mappe",
+                "GOOGLE": "Google Map",
+                "VECTOR": "Vector Map"
+            },
+            "extra": {
+                "EXTRA": "Extra",
+                "MAILBOX": "Mail",
+                "TIMELINE": "Timeline",
+                "CALENDAR": "Calendario",
+                "INVOICE": "Fattura",
+                "SEARCH": "Ricerca",
+                "TODO": "Lista todo",
+                "PROFILE": "Profilo"
+            },
+            "pages": {
+                "PAGES": "Pagine",
+                "LOGIN": "Login",
+                "REGISTER": "Registrazione",
+                "RECOVER": "Recupero password",
+                "PROFILE": "Profilo",
+                "LOCK": "Blocco",
+                "STARTER": "Template starter"
+            }
+        }
+    }
+}
