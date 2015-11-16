@@ -35,7 +35,7 @@
     <gap:platform name="android" />
     <preference name="fullscreen" value="true" />
     <preference name="orientation" value="portrait" />
-    <preference name='phonegap-version' value='cli-5.2' />
+    <preference name='phonegap-version' value='cli-5.2.0' />
     
     <icon src="logo-regular.png" gap:platform="android" gap:qualifier="ldpi" />
     <icon src="logo-mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
