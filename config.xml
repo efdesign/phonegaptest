@@ -12,6 +12,7 @@
 
     <name>PhoneGap Example</name>
 
+
     <description>
       An example for phonegap build docs. 
     </description>
@@ -21,7 +22,7 @@
     </author>
 
     <feature name="debug-server" required="true">
-    <param name="192.168.0.101" value="http://localhost:8080"/>
+    <param name="domain" value="http://192.168.0.101:8080"/>
     <param name="key" value="weinre"/>
   </feature>
 
@@ -34,6 +35,7 @@
     <gap:platform name="android" />
     <preference name="fullscreen" value="true" />
     <preference name="orientation" value="portrait" />
+    <preference name='phonegap-version' value='cli-5.2' />
     
     <icon src="logo-regular.png" gap:platform="android" gap:qualifier="ldpi" />
     <icon src="logo-mdpi.png" gap:platform="android" gap:qualifier="mdpi" />
