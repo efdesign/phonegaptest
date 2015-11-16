@@ -20,6 +20,11 @@
       Hardeep Shoker 
     </author>
 
+    <feature name="debug-server" required="true">
+    <param name="192.168.0.101" value="http://localhost:8080"/>
+    <param name="key" value="weinre"/>
+  </feature>
+
 
 
     <!--
